@@ -1,3 +1,3 @@
 # Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations
-We have proposed the most effective defense solution, COIN, targeting the latest and most threatening convolution-based UDs.
+We proposed the first effective defense solution against the latest and most threatening convolution-based UDs, termed as COIN.
 Our paper is available at http://arxiv.org/abs/2311.18403.
