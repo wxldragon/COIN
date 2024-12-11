@@ -9,3 +9,12 @@ The official implementation of our AAAI 2025 paper "*[Detecting and Corrupting C
 Convolution-based unlearnable examples (UEs) employ class-wise multiplicative convolutional noise to training samples, severely compromising model performance. This firenew type of UEs have successfully countered all defense mechanisms against UEs. The failure of such defenses can be
 attributed to the absence of norm constraints on convolutional noise, leading to severe blurring of image features. To address this, we first design an Edge Pixel-based Detector (EPD) to identify convolution-based UEs. Upon detection of them, we propose the first defense scheme against convolution-based UEs, COrrupting these samples via random matrix multiplication by employing bilinear INterpolation (COIN) such that
 disrupting the distribution of class-wise multiplicative noise. To evaluate the generalization of our proposed COIN, we newly design two convolution-based UEs called VUDA and HUDA to expand the scope of convolution-based UEs. Extensive experiments demonstrate the effectiveness of detection scheme EPD and that our defense COIN outperforms 11 state-of-the-art (SOTA) defenses, achieving a significant improvement on the CIFAR and ImageNet datasets.
+
+## Latest Update
+| Date       | Event    |
+|------------|----------|
+| **2024/12/10** | The camera-ready paper is available at [Detecting and Corrupting Convolution-based Unlearnable Examples](https://arxiv.org/pdf/2311.18403)!|
+| **2024/12/10** | Our paper is accepted by AAAI 2025!|
+| **2024/04/02** | An arXiv version including new approaches to craft VUDA and HUDA unlearnable examples is updated!|
+| **2023/11/30** | We have released the initial arXiv version of our paper!  |
+
