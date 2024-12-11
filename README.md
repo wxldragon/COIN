@@ -13,7 +13,7 @@ disrupting the distribution of class-wise multiplicative noise. To evaluate the 
 ## Latest Update
 | Date       | Event    |
 |------------|----------|
-| **2024/12/10** | The camera-ready paper is available at [Detecting and Corrupting Convolution-based Unlearnable Examples](https://arxiv.org/pdf/2311.18403)!|
+| **2024/12/11** | The camera-ready paper is available at [Detecting and Corrupting Convolution-based Unlearnable Examples](https://arxiv.org/pdf/2311.18403)!|
 | **2024/12/10** | Our paper is accepted by AAAI 2025!|
 | **2024/04/02** | An arXiv version including approaches to craft VUDA and HUDA unlearnable examples is updated!|
 | **2023/11/30** | We have released the initial arXiv version of our paper!  |
