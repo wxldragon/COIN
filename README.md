@@ -31,3 +31,18 @@ python train.py --poison CUDA --arch resnet18 --coin
 ```shell
 python train.py --poison CUDA --arch resnet18
 ```
+
+
+## Acknowledge
+Some of our codes are built upon [ECLIPSE](https://github.com/CGCL-codes/ECLIPSE), therefore the anconda environment is similar to ECLIPSE.
+
+## BibTex
+If you find COIN both interesting and helpful, please consider citing us in your research or publications:
+```bibtex
+@inproceedings{li2025coin,
+  title={Detecting and Corrupting Convolution-based Unlearnable Examples},
+  author={Li, Minghui and Wang, Xianlong and Yu, Zhifei and Hu, Shengshan and  Zhou, Ziqi and Zhang, Longling and Zhang, Leo Yu},
+  booktitle={Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25)},
+  year={2025}
+}
+```
