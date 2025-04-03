@@ -26,3 +26,8 @@ disrupting the distribution of class-wise multiplicative noise. To evaluate the 
 ```shell
 python train.py --poison CUDA --arch resnet18 --coin
 ```
+
+- **Perform Training on Convolution-based UEs**
+```shell
+python train.py --poison CUDA --arch resnet18
+```
